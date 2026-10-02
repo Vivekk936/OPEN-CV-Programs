@@ -1,0 +1,4 @@
+pyproject.toml
+output.mp4
+uv.lock
+.venv
